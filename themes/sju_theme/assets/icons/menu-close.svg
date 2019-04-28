@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UI/Close" fill="#CF102D">
+            <path d="M12.5,10.1835929 L22.6835929,-7.10542736e-15 L25,2.31640706 L14.8164071,12.5 L25,22.6835929 L22.6835929,25 L12.5,14.8164071 L2.31640706,25 L0,22.6835929 L10.1835929,12.5 L0,2.31640706 L2.31640706,-7.10542736e-15 L12.5,10.1835929 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>
